@@ -6,9 +6,9 @@
   "version": "1.0.0",
   "minimumCoreVersion": "0.7.9",
   "compatibleCoreVersion": "0.7.9",
-  "styles": "styles/distinctive-emmotes.css",
+  "styles": "styles/distinctive-emotes.css",
   "url": "https://github.com/BradleyStaples/foundry-distinctive-emotes",
   "license": "https://github.com/BradleyStaples/foundry-distinctive-emotes/blob/main/LICENSE",
   "readme": "https://github.com/BradleyStaples/foundry-distinctive-emotes/blob/main/README.md",
-  "download": "https://github.com/BradleyStaples/foundry-distinctive-emotes/archive/refs/tags/v1.0.zip"
+  "download": "https://github.com/BradleyStaples/foundry-distinctive-emotes/archive/refs/tags/v1.0.1.zip"
 }
