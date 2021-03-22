@@ -1,7 +1,7 @@
 {
   "name": "distinctive-emotes",
   "title": "Distinctive Emotes - A FVTT Module",
-  "description": "A simple module to change the appearance of emotes to make them more distinctive from in-character chats.",
+  "description": "A simple module to change the appearance of emotes to make them more distinctive from other chats.",
   "author": "Bradley Staples",
   "version": "1.0.0",
   "minimumCoreVersion": "0.7.9",

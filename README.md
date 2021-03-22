@@ -1,7 +1,8 @@
 # foundry-distinctive-emotes
+
 Distinctive emotes styling for Foundry VTT
 
-This simple momdule does a few styling tweaks to emotes to make them more distinctive from other chats.
+A simple module to change the appearance of emotes to make them more distinctive from other chats.
 
 ### Example Screenshot
 ![Emote Example](https://raw.githubusercontent.com/BradleyStaples/foundry-distinctive-emotes/master/images/example.png)
