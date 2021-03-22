@@ -8,6 +8,6 @@
   "compatibleCoreVersion": "0.7.9",
   "styles": "styles/distinctive-emmotes.css",
   "url": "https://github.com/BradleyStaples/foundry-distinctive-emotes",
-  "license": "./LICENSE",
+  "license": "https://github.com/BradleyStaples/foundry-distinctive-emotes/blob/main/LICENSE",
   "readme": "https://github.com/BradleyStaples/foundry-distinctive-emotes/blob/main/README.md"
 }
