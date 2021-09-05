@@ -3,15 +3,15 @@
 }
 
 .chat-message.emote .message-header > h4 {
-  display: none;
+  visibility: hidden;
 }
 
 .chat-message.emote .message-header > img {
-  display: none;
+  visibility: hidden;
 }
 
 .chat-message.emote .message-timestamp {
-  display: none;
+  visibility: hidden;
 }
 
 .chat-message.emote .message-content {
