@@ -1,24 +1,16 @@
-.chat-message.emote {
-  background: #f7efee;
+.chat-message.emote.distinctive-emotes .message-sub-header-container {
+  display: none;
 }
 
-.chat-message.emote .message-header > h4 {
+.chat-message.emote.distinctive-emotes .message-timestamp {
   visibility: hidden;
 }
 
-.chat-message.emote .message-header > img {
-  visibility: hidden;
-}
-
-.chat-message.emote .message-timestamp {
-  visibility: hidden;
-}
-
-.chat-message.emote .message-content {
-  margin: 0 0 .5rem 1.5rem;
-  padding: 0 1.5rem 0 .5rem;
-  border-left: 2px dotted #ff6403;
+.chat-message.emote.distinctive-emotes .message-content {
+  margin: 0.5rem 0 1.5rem 1.5rem;
+  padding: 0 1.5rem 0 0.5rem;
+  border-left: 2px dotted var(--distinctive-emotes-border-color);
   font-size: 1rem;
   font-style: italic;
-  color: #ff6403;
+  color: var(--distinctive-emotes-text-color);
 }

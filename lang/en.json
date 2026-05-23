@@ -1,0 +1,6 @@
+{
+  "distinctive-emotes.border-color": "Border Color",
+  "distinctive-emotes.border-color-hint": "The color of the left border for emotes in the chat panel.",
+  "distinctive-emotes.text-color": "Text Color",
+  "distinctive-emotes.text-color-hint": "The color of the text for emotes in the chat panel."
+}

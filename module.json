@@ -4,19 +4,27 @@
   "description": "A simple module to change the appearance of emotes to make them more distinctive from other chats.",
   "authors": [
     {
-    "name": "Bradley Staples"
+      "name": "Bradley Staples"
     }
   ],
-  "version": "1.1.0",
+  "version": "2.0.0",
   "compatibility": {
     "minimum": "0.7.9",
-    "verified": "11"
+    "verified": "14.0"
   },
-  "styles": [
-    "styles/distinctive-emotes.css"
+  "styles": ["styles/distinctive-emotes.css"],
+  "esmodules": ["main.js"],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json",
+      "flags": {}
+    }
   ],
   "url": "https://github.com/BradleyStaples/foundry-distinctive-emotes",
   "license": "https://github.com/BradleyStaples/foundry-distinctive-emotes/blob/main/LICENSE",
   "readme": "https://github.com/BradleyStaples/foundry-distinctive-emotes/blob/main/README.md",
+  "manifest": "https://github.com/BradleyStaples/foundry-distinctive-emotes/raw/master/module.json",
   "download": "http://github.com/BradleyStaples/foundry-distinctive-emotes/archive/master.zip"
 }
